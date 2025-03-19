@@ -4,12 +4,12 @@ This project has been developed for a few hours only because the task is given a
 
 ## Click the link to watch the proof of accomplishment
 
-[Link Text](https://drive.google.com/file/d/1CoSLLh2gwHApJg433VE_OUeiTF4iTfJS/view?usp=sharing)
+[https://drive.google.com/file/d/1CoSLLh2gwHApJg433VE_OUeiTF4iTfJS/view?usp=sharing](https://drive.google.com/file/d/1CoSLLh2gwHApJg433VE_OUeiTF4iTfJS/view?usp=sharing)
 
 ## Features and Functionality
 
 - laravel crud
-- mysql database
+- mysql database    
 - authentication in logic
 
 ## Database Configuration
